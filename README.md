@@ -1,3 +1,4 @@
+# 2player-snake
 2player-snake is a classic snake game with the implementation of a 2 player feature. This project is a mod from an older project which consists of the classic snake game made in Python Pygame.
 
 # Controls
